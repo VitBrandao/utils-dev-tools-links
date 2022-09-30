@@ -1,7 +1,7 @@
 # utils-dev-tools-links
 Personal repository to save some useful links to any Dev.
 
->> FRONT-END
+> FRONT-END
 
 [React - Deploy to GitHub](https://dev-yakuza.posstree.com/en/react/github-pages/)
 
@@ -12,14 +12,14 @@ Personal repository to save some useful links to any Dev.
 [Coolors - colors generator](https://coolors.co/)
 
 
->> BACK-END
+> BACK-END
 
 [Sequelize - Passo a Passo](https://docs.google.com/document/d/1F5Fv3SFi-ktI04Sz7x96TAr24shxvBkyek7pnKAxaOc/edit)
 
 [MySQL - Reverse Engineer](https://database.guide/how-to-reverse-engineer-a-database-in-mysql-workbench/)
 
 
->> GENERAL TOOLS
+> GENERAL TOOLS
 
 [Linkedin Emojis - List](https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman/)
 
