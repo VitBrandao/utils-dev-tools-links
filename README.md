@@ -14,8 +14,6 @@ Personal repository to save some useful links to any Dev.
 
 > BACK-END
 
-[Sequelize - Passo a Passo](https://docs.google.com/document/d/1F5Fv3SFi-ktI04Sz7x96TAr24shxvBkyek7pnKAxaOc/edit)
-
 [MySQL - Reverse Engineer](https://database.guide/how-to-reverse-engineer-a-database-in-mysql-workbench/)
 
 [AWS - Curso Completo](https://www.youtube.com/playlist?list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz)
