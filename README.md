@@ -18,6 +18,8 @@ Personal repository to save some useful links to any Dev.
 
 [MySQL - Reverse Engineer](https://database.guide/how-to-reverse-engineer-a-database-in-mysql-workbench/)
 
+[AWS - Curso Completo](https://www.youtube.com/playlist?list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz)
+
 
 > GENERAL TOOLS
 
@@ -30,6 +32,8 @@ Personal repository to save some useful links to any Dev.
 [GitHub ReadME features](https://github.com/anuraghazra/github-readme-stats)
 
 [EZ Gifs - videos to .gif](https://ezgif.com/video-to-gif)
+
+[Diminuir Tamanho de Imagens](https://www.iloveimg.com/pt)
 
 [Repositório de Aulas ao Vivo - T.16A](https://github.com/tryber/sd-016-a-live-lectures)
 
